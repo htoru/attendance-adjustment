@@ -1,0 +1,7 @@
+{
+  "name": "schedule-arranger",
+  "description": "出欠調整アプリ",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
